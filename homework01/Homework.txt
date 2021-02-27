@@ -1,0 +1,10 @@
+Homework (Easy)
+● Create GitHub Account
+● Create SSH key pair and add to GitHub
+● Create a repository
+● Create dev/test/prod branches
+● Commit to dev and PR it across the branches
+● Clone a colleague's repository
+● Open an issue for a “new functionality”
+● Make a PR with the “new functionality”
+● Ask your colleague to merge the PR and close the issue
